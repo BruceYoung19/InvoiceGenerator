@@ -14,4 +14,4 @@ The program can function and create more than one technical report. However, thi
 Realistically this program is not feasible by any means as this requires so manual work before all the invoices and reports are generated.
 
 
-# Project is not discontinued.
+# This project is now discontinued.
